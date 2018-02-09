@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bienvenidos al sitio del grupo de Analítica"
+title: "Analítica 2"
 author: "Román Contreras"
 categories: journal
 tags: [documentation,sample]
@@ -11,9 +11,11 @@ image:
   creditlink: ""
 ---
 
-Finalmente, después de una larga espera, aquí está el sitio del grupo.
+Este será el sitio del grupo de Geometría analítica 2.
 
-Como pueden ver aún no hay gran cosa. El fin de semana voy a seguir subiendo material.
-Por lo pronto les dejo una imagen del libro de geometría de René Descartes ;-).
+Los invito a visitar el sitio del grupo de geometría analítica 1 para que tengan una idea del enfoque del curso
+así como de los temas que se cubrieron el semestre pasado:
 
-En asuntos un poco más importantes, [aquí]({{ site.github.url }}/menu/ejercicios.html) pueden checar la lista de calificaciones de los ejercicios.
+[Analítica 1 4071](https://romanbott.github.io/analitica-4071/)
+
+En dicho sitio encontraran, principalmente, la bibliografía y los exámenes realizados.
