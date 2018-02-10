@@ -13,7 +13,7 @@ image:
 
 * Pontriaguin, L. S. *El método de coordenadas*  URSS, 2011.
 
-Disponible en la biblioteca central de la UNAM, [Ficha](http://informatica.dgbiblio.unam.mx:8991/F/NRUS8NH5UGYY57RAVM5LFYDMSJ8NC5SFRMAEKFV5CQBV75R798-03369?func=full-set-set&set_number=012531&set_entry=000001&format=999)
+Disponible en la biblioteca central de la UNAM, [Ficha](http://132.248.67.82:8991/F/-/?func=direct&doc_number=001593301current_base=MX001)
 
 
 ## Bibliografía básica
