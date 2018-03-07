@@ -30,6 +30,11 @@ Disponible en la biblioteca central de la UNAM, [Ficha](http://132.248.67.82:899
  
 * Weyl, Hermann, y Eduardo Bonet. *La simetría*. No. 744. Promoción Cultural, 1975.
 
+
+## Bibliografía para temas de álgebra lineal
+
+* Jänich, Klaus. *Linear Algebra*. Undergraduate Texts in Mathematics, Springer Science & Business Media, 1994.
+
 ## Bibliografia general de matemáticas:
 
 * Courant, Richard, Herbert Robbins, and Ian Stewart. *What is Mathematics?: an elementary approach to ideas and methods*. Oxford University Press, USA, 1996.
