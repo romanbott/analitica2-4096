@@ -3,10 +3,10 @@ layout: post
 title: "Primer examen parcial"
 author: "Román Contreras"
 categories: aviso 
-tags: [documentation,sample]
+tags: [aviso, examen]
 image:
-  feature: geodescartes.jpg
-  teaser: geodescartes-teaser.jpg
+  feature: 
+  teaser: 
   credit: 
   creditlink: ""
 ---
@@ -19,7 +19,7 @@ Los temas que se evaluarán son:
 
 * Paralelismo y perpendicularidad
 
-* Algebra de vectores en el espacio
+* Álgebra de vectores en el espacio
 
 * Producto interno
 
