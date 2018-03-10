@@ -15,6 +15,7 @@ menu:
 - {name: 'Información', url: 'info.html'}
 - {name: 'Entradas', url: 'entradas.html'}
 - {name: 'Ejercicios', url: 'ejercicios.html'}
+- {name: 'Exámenes', url: 'examenes.html'}
 - {name: 'Bibliografía', url: 'biblio.html'}
 - {name: 'Adicional', url: 'adicional.html'}
 - {name: 'Contacto', url: 'contacto.html'}
