@@ -28,6 +28,11 @@ layout: page
 
 - [Canal del Instituto de matemáticas](https://www.youtube.com/user/VideosIMUNAM)
 
+- [Canal de 3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) Un canal de Youtube muy recomendable,
+en donde se expone de manera relativamente sencilla muchos conceptos de matemáticas. Tiene un especial énfasis en explicar las ideas
+detrás de los conceptos.
+  * Véase sobre todo, esta [lista de reproducción](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) sobre la esencia del álgebra lineal.
+
 ## Software libre y de código abierto
 
 - [DJvu](http://djvu.sourceforge.net/)
