@@ -16,6 +16,7 @@ Las tareas que se han dejado hasta ahora son:
 Las calificaciones hasta ahora las pueden consultar en el siguiente enlace:
 
 [Calificaciones]({{ site.github.url }}/assets/Tareas.html)
+[Calificaciones Tarea 3]({{ site.github.url }}/assets/Tarea3.html)
 
 Recuerden que tienen que buscar los últimos 5 digitos de su número de cuenta.
 
