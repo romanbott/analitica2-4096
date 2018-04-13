@@ -12,6 +12,7 @@ Las tareas que se han dejado hasta ahora son:
 * [Tarea 3 extra]({{ site.github.url }}/assets/tareas/tarea3-opcional.pdf) - Esta tarea no se entrega y no será tomada en cuenta para la calificación
 * [Tarea 4]({{ site.github.url }}/assets/tareas/tarea4.pdf)
 * [Tarea 5]({{ site.github.url }}/assets/tareas/tarea5.pdf)
+* [Tarea 6]({{ site.github.url }}/assets/tareas/tarea6.pdf)
 
 
 Las calificaciones hasta ahora las pueden consultar en el siguiente enlace:
