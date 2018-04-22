@@ -13,6 +13,7 @@ Las tareas que se han dejado hasta ahora son:
 * [Tarea 4]({{ site.github.url }}/assets/tareas/tarea4.pdf)
 * [Tarea 5]({{ site.github.url }}/assets/tareas/tarea5.pdf)
 * [Tarea 6]({{ site.github.url }}/assets/tareas/tarea6.pdf)
+* [Tarea 7]({{ site.github.url }}/assets/tareas/tarea7.pdf)
 
 
 Las calificaciones hasta ahora las pueden consultar en el siguiente enlace:
