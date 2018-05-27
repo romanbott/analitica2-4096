@@ -15,6 +15,7 @@ Las tareas que se han dejado hasta ahora son:
 * [Tarea 6]({{ site.github.url }}/assets/tareas/tarea6.pdf)<!-- 7 -->
 * [Tarea 7]({{ site.github.url }}/assets/tareas/tarea7.pdf)<!-- 10 -->
 * [Tarea 8]({{ site.github.url }}/assets/tareas/tarea8.pdf)<!-- 8 -->
+* [Tarea 9]({{ site.github.url }}/assets/tareas/tarea8.pdf)<!-- 8 -->
 
 
 Las calificaciones hasta ahora las pueden consultar en el siguiente enlace:
@@ -26,4 +27,4 @@ Las calificaciones hasta ahora las pueden consultar en el siguiente enlace:
 
 Recuerden que tienen que buscar los últimos 5 digitos de su número de cuenta.
 
-El total de ejercicios hasta la tarea 8 es 57.
+El total de ejercicios es 57.
